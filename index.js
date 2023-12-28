@@ -23,4 +23,3 @@ app.listen(process.env.PORT, () => {
     connectDB();
     console.log("app running on port process.env.PORT");
 })
-// baized1245
